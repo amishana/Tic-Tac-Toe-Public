@@ -14,8 +14,8 @@ Amisha Nambiar authored tictac_twoPlayer.py, tictac_easyMode.py, tictac_hardMode
 Amisha Nambiar and Professor Larissa Munishkina authored the pseudocode for tictac_twoPlayer.py, tictac_easyMode.py, tictac_hardMode.py, board.py, and player.py.<br />
 
 ### Files in This Repository:<br />
-tictac_twoPlayer.py contains the main game code that allows two players to play against each other.<br />
-tictac_easyMode.py contains the main game code that allows a player to play against the random AI.<br />
-tictac_hardMode.py contains the main game code that allows a player to play against the MiniMax algorithm.<br />
-board.py contains the code for the board that is printed in the console and checks for wins, losses, and ties.<br />
-player.py contains the code for a player, an AI making random moves for the computer, and a MiniMax AI algorithm that will always win or tie the game.<br />
+1. tictac_twoPlayer.py contains the main game code that allows two players to play against each other.<br />
+2. tictac_easyMode.py contains the main game code that allows a player to play against the random AI.<br />
+3. tictac_hardMode.py contains the main game code that allows a player to play against the MiniMax algorithm.<br />
+4. board.py contains the code for the board that is printed in the console and checks for wins, losses, and ties.<br />
+5. player.py contains the code for a player, an AI making random moves for the computer, and a MiniMax AI algorithm that will never lose the game.<br />
