@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+# Tic-Tac-Toe-Public
 ### Description:<br />
 This game follows the rules of the traditional game of "Tic-Tac-Toe" where players compete to place 3 of their characters in a row on a 3 by 3 game board. If choosing to play against another player, each person will be assigned "X" or "O" and take turns inputting a cell number to put their character in. If choosing to play against the computer, either easy or hard mode, the player will choose their spot first as "X" while the computer chooses its spot next as "O". Continue taking turns until one person (or computer) gets 3 of their characters in a row and wins the game, or the board fills up and the game ends in a tie.
 
